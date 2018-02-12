@@ -1,0 +1,6 @@
+c:\users\dean.jaquez\source\repos\Builder\Builder\bin\Debug\Builder.exe.config
+c:\users\dean.jaquez\source\repos\Builder\Builder\bin\Debug\Builder.exe
+c:\users\dean.jaquez\source\repos\Builder\Builder\bin\Debug\Builder.pdb
+c:\users\dean.jaquez\source\repos\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+c:\users\dean.jaquez\source\repos\Builder\Builder\obj\Debug\Builder.exe
+c:\users\dean.jaquez\source\repos\Builder\Builder\obj\Debug\Builder.pdb
